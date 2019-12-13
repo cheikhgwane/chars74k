@@ -1,2 +1,4 @@
 #ignore dataset files 
-merged/
+dataset/
+dataset.zip
+.git/
